@@ -5,6 +5,7 @@
 
 ## Added slnx.sqlite to gitignore 10/10/2021 - BH
 slnx.sqlite
+.vs
 
 # User-specific files
 *.rsuser
