@@ -3,6 +3,9 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
+## Added slnx.sqlite to gitignore 10/10/2021 - BH
+slnx.sqlite
+
 # User-specific files
 *.rsuser
 *.suo
